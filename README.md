@@ -20,6 +20,7 @@ The possible alphabets are:
 - Bitcoin: *base58.AlphabetBitcoin*
 - Ripple: *base58.AlphabetRipple*
 - Flickr: *base58.AlphabetFlickr*
+
 If the object is created without using the *New* function, the Bitcoin alphabet will be used by default.
 
 There are 4 APIs that can be used:
