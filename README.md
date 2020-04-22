@@ -21,8 +21,7 @@ The possible alphabets are:
 - Ripple: *base58.AlphabetRipple*
 - Flickr: *base58.AlphabetFlickr*
 
-If the object is created without using the *New* function, the Bitcoin alphabet will be used by default.
-
+If the object is created without using the *New* function, the Bitcoin alphabet will be used by default.\
 There are 4 APIs that can be used:
 - *Encode([]byte) string*: encode bytes into string
 - *CheckEncode([]byte) string*: encode bytes into string with checksum
